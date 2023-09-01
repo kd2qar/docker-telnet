@@ -1,4 +1,5 @@
-FROM debian:bullseye-slim
+#FROM debian:bullseye-slim
+FROM debian:bookworm-slim
 
 MAINTAINER kd2qar@gmail.com
 
